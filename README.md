@@ -21,8 +21,7 @@ Open to AI and Machine Learning Engineer roles in Spain and Europe, on-site or h
 
 ### Stack
 
-Python · PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · LightGBM · Gymnasium · LLMs · MCP ·
-SQL · Git · CI/CD · Docker · AWS
+Python · PyTorch · TensorFlow/Keras · Reinforcement Learning · Deep Learning · MCTS · Scikit-Learn · NumPy · Pandas · Gymnasium · LLMs · MCP · SQL · Git · CI/CD · Docker · AWS
 
 ### Contact
 
