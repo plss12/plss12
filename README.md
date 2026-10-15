@@ -25,4 +25,4 @@ Python · PyTorch · TensorFlow/Keras · Reinforcement Learning · Deep Learning
 
 ### Contact
 
-[Portfolio](https://plss12.github.io) · [LinkedIn](https://www.linkedin.com/in/plss12) · pepoluis712@gmail.com
+[Portfolio](https://plss12.github.io/en) · [LinkedIn](https://www.linkedin.com/in/plss12) · pepoluis712@gmail.com
